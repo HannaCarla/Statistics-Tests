@@ -1,2 +1,2 @@
-# Statistics-Tests
-Testes estatísticos em Python 
+# Testes Estatísticos em Python 
+
